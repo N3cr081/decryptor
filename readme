@@ -1,0 +1,9 @@
+Read me 
+
+go run decrypt.go
+
+input path of encrypted file
+outpath of unencrypted file
+select 128 or 256
+input IV (hex format)
+input wordlist (passwords need to be hex format)
